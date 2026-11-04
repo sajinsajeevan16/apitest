@@ -25,8 +25,8 @@ if (
 // Database connection
 $con = mysqli_connect(
     "localhost",
-    "root",
-    "root",
+    "admin",
+    "admin",
     "testapi"
 );
 
