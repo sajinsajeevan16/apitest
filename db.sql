@@ -1,7 +1,7 @@
 
 CREATE DATABASE IF NOT EXISTS testapi;
 
-USE simple_api_DB;
+USE testapi;
 
 CREATE TABLE IF NOT EXISTS person (
     id INT AUTO_INCREMENT PRIMARY KEY,
